@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniketsingh
-- 👀 I’m interested in backend devlopment
+- 👀 I'm into backend development.
 - 🌱 I’m currently creating products
 - 📫 How to reach me .. aniket@usdcglobal.com
 
